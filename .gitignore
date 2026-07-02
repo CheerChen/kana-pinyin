@@ -1,0 +1,14 @@
+# RIME dictionaries (downloaded via scripts/download_dicts.sh)
+dicts/*.dict.yaml
+
+# Deno
+.deno/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~

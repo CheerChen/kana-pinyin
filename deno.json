@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "repl": "deno run -A src/repl.ts",
+    "test": "deno test -A src/",
+    "test:detect": "deno test -A src/detector/"
+  },
+  "imports": {}
+}
